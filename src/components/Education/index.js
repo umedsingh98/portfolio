@@ -4,7 +4,7 @@ import styled from 'styled-components'
 import { VerticalTimeline, VerticalTimelineElement } from 'react-vertical-timeline-component';
 import 'react-vertical-timeline-component/style.min.css';
 import { education } from '../../data/constants';
-import EducationCard from '../Cards/EducationCard';
+
 
 const Container = styled.div`
     display: flex;
@@ -71,20 +71,20 @@ const TimelineSection = styled.div`
     }
 `;
 
-const Skills = styled.div`
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  margin-top: 8px;
-`;
+// const Skills = styled.div`
+//   display: flex;
+//   flex-wrap: wrap;
+//   gap: 8px;
+//   margin-top: 8px;
+// `;
 
-const Skill = styled.span`
-  background: #222a35;
-  color: #fff;
-  padding: 4px 10px;
-  border-radius: 12px;
-  font-size: 14px;
-`;
+// const Skill = styled.span`
+//   background: #222a35;
+//   color: #fff;
+//   padding: 4px 10px;
+//   border-radius: 12px;
+//   font-size: 14px;
+// `;
 
 const EducationCardCustom = ({ education }) => (
   <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
