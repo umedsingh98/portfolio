@@ -112,26 +112,8 @@ export const skills = [
 ];
 
 export const experiences = [
-  {
+    {
     id: 0,
-    img: "/c_simplify.jpg",
-    role: "Software Engineer",
-    company: "C Simplify IT Be 10x Better",
-    date: "April 2023 - Sept 2024",
-    desc: "My key responsibilities where to develop and implement the modules like Authentication/Authorization system, API Integration, Implementing Figma designs into the development, Responsive web app interfaces which are compatible with different device screens.",
-    skills: [
-      "React JS",
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "JQuery",
-      "Ajax",
-      "Tailwind CSS",
-      "Bootstrap",
-    ],
-  },
-  {
-    id: 1,
     img: "sparta_logo.webp",
     role: "Frontend Developer",
     company: "Sparta Telecom Ltd.",
@@ -147,6 +129,24 @@ export const experiences = [
       "Material UI",
       "React-Hook-Form,",
       "Ant Design",
+    ],
+  },
+  {
+    id: 1,
+    img: "/c_simplify.jpg",
+    role: "Software Engineer",
+    company: "C Simplify IT Be 10x Better",
+    date: "April 2023 - Sept 2024",
+    desc: "My key responsibilities where to develop and implement the modules like Authentication/Authorization system, API Integration, Implementing Figma designs into the development, Responsive web app interfaces which are compatible with different device screens.",
+    skills: [
+      "React JS",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "JQuery",
+      "Ajax",
+      "Tailwind CSS",
+      "Bootstrap",
     ],
   },
 ];
