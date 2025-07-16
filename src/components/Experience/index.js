@@ -81,7 +81,7 @@ const ExperienceCard = ({ experience }) => (
     <div style={{ fontSize: 14, color: '#aaa' }}>{experience.date}</div>
     
     </div></div>
-    <div style={{ marginTop: 8 }}>{experience.desc}</div>
+    <div style={{ marginTop: 8, color: "#F2F3F495" }}>{experience.desc}</div>
     {experience.skills && experience.skills.length > 0 && (
       <Skills>
         {experience.skills.map((skill, idx) => (

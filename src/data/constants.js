@@ -112,7 +112,7 @@ export const skills = [
 ];
 
 export const experiences = [
-    {
+  {
     id: 0,
     img: "sparta_logo.webp",
     role: "Frontend Developer",
@@ -163,7 +163,7 @@ export const education = [
   },
   {
     id: 1,
-       img: "/school.jpg",
+    img: "/school.jpg",
     school: "The T.I.T & Sciences, Bhiwani",
     date: "Apr 2015 - Apr 2016",
     grade: "59%",
@@ -184,24 +184,38 @@ export const education = [
 export const projects = [
   {
     id: 0,
+    title: "Hunger Point",
+    date: "Nov 2024 - Dec 2024",
+    description:
+      "Developed a fully responsive MERN stack web application inspired by food ordering platforms like Swiggy and Zomato. The app features multiple routes, including a place order page, cart page, and payment page integrated with the Stripe payment gateway. Implemented an admin panel for data management (add, update, delete) and a user panel for order tracking. Additionally, incorporated secure login and sign-up functionality to enhance user experience.",
+    image: "/hungerpoint.png",
+    tags: [
+      "React Js",
+      "MongoDB",
+      "Node Js",
+      "Express Js",
+      "Context API",
+      "CSS",
+      "HTML",
+    ],
+    category: "web app",
+    github: "https://github.com/umedsingh98/Hungerpoint.git",
+    webapp: "https://hungerpoint-app.netlify.app/",
+  },
+  {
+    id: 1,
     title: "Burger Hub",
     date: "July 2024 - July 2024",
     description:
       "Developed a modern, responsive food ordering platform using React, React Router, and Bootstrap. BurgerHub enables users to browse a dynamic menu, manage a shopping cart, and securely register, log in, and manage their profiles. Implemented features include real-time cart updates, order placement with checkout flow, and a dynamic order history system leveraging localStorage for persistence. The application features a modular component structure, context-based state management for authentication and cart, and a visually appealing, mobile-friendly UI. Emphasized user experience with toast notifications, smooth navigation, and robust form validation.",
-    image:
-      "/burgerhub.png",
-    tags: [
-      "React Js", 
-      "Context Api", 
-      "CSS", 
-      "React Hook Form"
-    ],
+    image: "/burgerhub.png",
+    tags: ["React Js", "Context Api", "CSS", "React Hook Form"],
     category: "web app",
     github: "https://github.com/umedsingh98/BurgerHub.git",
     webapp: "https://burger-hub-kappa.vercel.app/",
   },
   {
-    id: 1,
+    id: 2,
     title: "Book Point",
     date: "Aug 2024 - Aug 2024",
     description:
@@ -219,20 +233,6 @@ export const projects = [
     github: "https://github.com/umedsingh98/BookPointApp.git",
     webapp: "https://main--bookpointapp.netlify.app/",
   },
-  // {
-  //   id: 2,
-  //   title: "Brain Tumor Detection",
-  //   date: "Jan 2023 - Mar 2023",
-  //   description:
-  //     "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
-  //   image:
-  //     "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
-  //   tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
-  //   category: "machine learning",
-  //   github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
-  //   webapp: "https://brain-tumor.netlify.app/",
-  // },
-
 ];
 
 // export const TimeLineData = [

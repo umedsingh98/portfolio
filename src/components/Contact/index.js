@@ -43,6 +43,7 @@ margin-top: 20px;
 
 const Desc = styled.div`
     font-size: 18px;
+    padding: 0 10px;
     text-align: center;
     max-width: 600px;
     color: ${({ theme }) => theme.text_secondary};
@@ -113,6 +114,7 @@ const ContactButton = styled.input`
   margin-top: 2px;
   border-radius: 12px;
   border: none;
+  cursor: pointer;
   color: ${({ theme }) => theme.text_primary};
   font-size: 18px;
   font-weight: 600;

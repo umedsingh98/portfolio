@@ -49,6 +49,7 @@ margin-top: 20px;
 const Desc = styled.div`
     font-size: 18px;
     text-align: center;
+    padding: 0 10px;
     max-width: 600px;
     color: ${({ theme }) => theme.text_secondary};
     @media (max-width: 768px) {
@@ -97,7 +98,7 @@ const EducationCardCustom = ({ education }) => (
         <div style={{ fontSize: 14, color: '#aaa' }}><b>Grade:</b> {education.grade}</div>
       </div>
     </div>
-    <div style={{ marginTop: 8 }}>{education.desc}</div>
+    <div style={{ marginTop: 8, color: "#F2F3F495" }}>{education.desc}</div>
   </div>
 );
 
