@@ -5,7 +5,7 @@ export const Bio = {
     "Competent MERN Stack Developer having skills in developing high-quality web applications. Proficient in Next.js, React.js, JavaScript, Node.js, Express.js, MongoDB. Having ability to design and implement scalable solution for challenging assignments. Would love to deliver exceptional work that exceed expectations.",
   github: "https://github.com/umedsingh98",
   resume:
-    "https://drive.google.com/file/d/1_uaagas67dRiXKzgGySwoK2qY0xEubMj/view?usp=sharing",
+    "https://drive.google.com/file/d/1rY3OxB0mWa1MJg9-cJPSHf6IjHD4QYer/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/umed-singh-60228433b/",
 };
 
