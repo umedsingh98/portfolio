@@ -2,7 +2,7 @@ export const Bio = {
   name: "Umed Singh",
   roles: ["Mern Stack Developer"],
   description:
-    "Competent MERN Stack Developer having skills in developing high-quality web applications. Proficient in Next.js, React.js, JavaScript, Node.js, Express.js, MongoDB. Having ability to design and implement scalable solution for challenging assignments. Would love to deliver exceptional work that exceed expectations.",
+    "Competent MERN Stack Developer having 2+ years of experience in developing high-quality web applications. Proficient in Next.js/React.js, TypeScript, Agentic AI, Generative AI, JavaScript, Tailwind, Node.js, Express.js, MongoDB. Having ability to design and implement scalable solution for challenging assignments. Would love to deliver exceptional work that exceed expectations.",
   github: "https://github.com/umedsingh98",
   resume:
     "https://drive.google.com/file/d/1sAs3AwQCcC4BuJ92z1_AJ1gsXpxr-xJa/view?usp=sharing",
