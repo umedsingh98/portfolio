@@ -5,7 +5,7 @@ export const Bio = {
     "Competent MERN Stack Developer having skills in developing high-quality web applications. Proficient in Next.js, React.js, JavaScript, Node.js, Express.js, MongoDB. Having ability to design and implement scalable solution for challenging assignments. Would love to deliver exceptional work that exceed expectations.",
   github: "https://github.com/umedsingh98",
   resume:
-    "https://drive.google.com/file/d/1rY3OxB0mWa1MJg9-cJPSHf6IjHD4QYer/view?usp=sharing",
+    "https://drive.google.com/file/d/1sAs3AwQCcC4BuJ92z1_AJ1gsXpxr-xJa/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/umed-singh-60228433b/",
 };
 
@@ -131,7 +131,24 @@ export const experiences = [
       "Ant Design",
     ],
   },
-
+  {
+    id: 1,
+    img: "web-tech-solution-logo.png",
+    role: "Software Engineer",
+    company: "Web Tech Solution",
+    date: "April 2023 - Sept 2024",
+    desc: "My key responsibilities were to develop and implement the modules like Authentication/Authorization system, API Integration, Implementing Figma designs into the development. Responsive web app interfaces which are compatible with different device screens.",
+    skills: [
+      "React JS",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Tailwind CSS",
+      "Bootstrap",
+      "Material UI",
+      "React-Hook-Form,",
+    ],
+  },
 ];
 
 export const education = [
