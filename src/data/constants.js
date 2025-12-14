@@ -2,10 +2,10 @@ export const Bio = {
   name: "Umed Singh",
   roles: ["Mern Stack Developer"],
   description:
-    "Competent MERN Stack Developer having 2+ years of experience in developing high-quality web applications. Proficient in Next.js/React.js, TypeScript, Agentic AI, Generative AI, JavaScript, Tailwind, Node.js, Express.js, MongoDB. Having ability to design and implement scalable solution for challenging assignments. Would love to deliver exceptional work that exceed expectations.",
+    "Competent MERN Stack Developer having 2.5+ years of hands-on experience in developing high-quality web applications. Proficient in Next.js/React.js, TypeScript, Agentic AI, Generative AI, JavaScript, Tailwind, Node.js, Express.js, MongoDB. Having ability to design and implement scalable solution for challenging assignments. Would love to deliver exceptional work that exceed expectations.",
   github: "https://github.com/umedsingh98",
   resume:
-    "https://drive.google.com/file/d/1sAs3AwQCcC4BuJ92z1_AJ1gsXpxr-xJa/view?usp=sharing",
+    "https://drive.google.com/file/d/1MePmGNojMinhqt4PCkE2hhe0-iBs654q/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/umed-singh-60228433b/",
 };
 
@@ -112,32 +112,32 @@ export const skills = [
 ];
 
 export const experiences = [
+  // {
+  //   id: 0,
+  //   img: "sparta_logo.webp",
+  //   role: "Frontend Developer",
+  //   company: "Sparta Telecom Ltd.",
+  //   date: "Dec 2024 - July 2025",
+  //   desc: "Developed fully responsive, high-performance frontends using Next.js, React.js, Tailwind CSS, ShadCn, Reduced data loading time by implementing incremental loading and table pagination techniques. • Worked on projects like CRMs, HRMS, Landing Pages, Food Ordering Web App. • Enhanced functionality and user experience by incorporating tools such as MUI, Antd, Google Maps, React-hook-form",
+  //   skills: [
+  //     "Next JS",
+  //     "React JS",
+  //     "JavaScript",
+  //     "HTML",
+  //     "CSS",
+  //     "Tailwind CSS",
+  //     "Material UI",
+  //     "React-Hook-Form,",
+  //     "Ant Design",
+  //   ],
+  // },
   {
     id: 0,
-    img: "sparta_logo.webp",
-    role: "Frontend Developer",
-    company: "Sparta Telecom Ltd.",
-    date: "Dec 2024 - July 2025",
-    desc: "Developed fully responsive, high-performance frontends using Next.js, React.js, Tailwind CSS, ShadCn, Reduced data loading time by implementing incremental loading and table pagination techniques. • Worked on projects like CRMs, HRMS, Landing Pages, Food Ordering Web App. • Enhanced functionality and user experience by incorporating tools such as MUI, Antd, Google Maps, React-hook-form",
-    skills: [
-      "Next JS",
-      "React JS",
-      "JavaScript",
-      "HTML",
-      "CSS",
-      "Tailwind CSS",
-      "Material UI",
-      "React-Hook-Form,",
-      "Ant Design",
-    ],
-  },
-  {
-    id: 1,
     img: "web-tech-solution-logo.png",
     role: "Software Engineer",
     company: "Web Tech Solution",
-    date: "April 2023 - Sept 2024",
-    desc: "My key responsibilities were to develop and implement the modules like Authentication/Authorization system, API Integration, Implementing Figma designs into the development. Responsive web app interfaces which are compatible with different device screens.",
+    date: "June 2023 - Present",
+    desc: "Developed fully responsive, high-performance projects using Next.js, React.js, Tailwind CSS, ShadCn, Reduced data loading time by implementing incremental loading and table pagination techniques.  • Worked on projects like CRMs, HRMS, CMS, Landing Pages, Web Apps.   • Enhanced functionality and user experience by incorporating tools such as MUI, Antd, Google Maps, React-hook-form. • Integrated RESTful and secured APIs into various frontend components. • Translated Figma designs into pixel-perfect, functional user interfaces",
     skills: [
       "React JS",
       "JavaScript",
