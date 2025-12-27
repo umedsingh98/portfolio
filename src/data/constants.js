@@ -1,11 +1,11 @@
 export const Bio = {
   name: "Umed Singh",
-  roles: ["Mern Stack Developer"],
+  roles: ["Software Engineer", "MERN Stack Developer", "Web Developer"],
   description:
-    "Competent MERN Stack Developer having 3+ years of hands-on experience in developing high-quality web applications. Proficient in Next.js/React.js, TypeScript, Agentic AI, Generative AI, JavaScript, Tailwind, Node.js, Express.js, MongoDB. Having ability to design and implement scalable solution for challenging assignments. Would love to deliver exceptional work that exceed expectations.",
+    "Software Engineer having 3+ years of hands-on experience in developing high-quality web applications. Proficient in Next.js/React.js, TypeScript, Agentic AI, Generative AI, JavaScript, Tailwind, Node.js, Express.js, MongoDB. Having ability to design and implement scalable solution for challenging assignments. Would love to deliver exceptional work that exceed expectations.",
   github: "https://github.com/umedsingh98",
   resume:
-    "https://drive.google.com/file/d/1dupZn4ULm8lzyu_OwFzRcYCruhO5SPeR/view?usp=sharing",
+    "https://drive.google.com/file/d/11BdyrxBAkQ8YurnoKoZdxwMv23YPC8He/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/umed-singh-60228433b/",
 };
 
@@ -136,7 +136,7 @@ export const experiences = [
     img: "web-tech-solution-logo.png",
     role: "Software Engineer",
     company: "Web Tech Solution",
-    date: "June 2023 - Present",
+    date: "November 2022 - Present",
     desc: "Developed fully responsive, high-performance projects using Next.js, React.js, Tailwind CSS, ShadCn, Reduced data loading time by implementing incremental loading and table pagination techniques.  • Worked on projects like CRMs, HRMS, CMS, Landing Pages, Web Apps.   • Enhanced functionality and user experience by incorporating tools such as MUI, Antd, Google Maps, React-hook-form. • Integrated RESTful and secured APIs into various frontend components. • Translated Figma designs into pixel-perfect, functional user interfaces",
     skills: [
       "React JS",
