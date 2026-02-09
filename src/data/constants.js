@@ -1,11 +1,17 @@
 export const Bio = {
   name: "Umed Singh",
-  roles: ["Software Engineer", "MERN Stack Developer", "Web Developer"],
-  description:
-    "Software Engineer having 3+ years of hands-on experience in developing high-quality web applications. Proficient in Next.js/React.js, TypeScript, Agentic AI, Generative AI, JavaScript, Tailwind, Node.js, Express.js, MongoDB. Having ability to design and implement scalable solution for challenging assignments. Would love to deliver exceptional work that exceed expectations.",
+  roles: [
+    "Software Engineer",
+    "Full Stack Developer",
+    "Sr. Frontend Developer",
+  ],
+  description: `Software Engineer with 3+ years of experience building and scaling modern web applications using React.js
+and Next.js. Specialized in creating maintainable frontend architectures, optimizing rendering performance,
+and delivering responsive user interfaces for enterprise applications. Improved application performance by
+data handling, lazy loading, and optimized state management using Redux Toolkit / RTK Query.`,
   github: "https://github.com/umedsingh98",
   resume:
-    "https://drive.google.com/file/d/1BE4YMJpxBXMFrt9w5IkcO6Q2NYhDmKSK/view?usp=sharing",
+    "https://drive.google.com/file/d/1Xv6iHNbjkw9yynCd01_X6iU1hGqJBREh/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/umed-singh-60228433b/",
 };
 
@@ -35,7 +41,7 @@ export const skills = [
       {
         name: "JavaScript",
         image:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
       },
       {
         name: "Tailwind CSS",
@@ -55,7 +61,6 @@ export const skills = [
         image:
           "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
       },
-      
     ],
   },
   {
@@ -153,7 +158,7 @@ export const experiences = [
     img: "web-tech-solution-logo.png",
     role: "Software Engineer",
     company: "Web Tech Solution",
-    date: "Nov 2022 - Jan 2026",
+    date: "Nov 2022 - Present",
     desc: "Developed fully responsive, high-performance projects using Next.js, React.js, Tailwind CSS, ShadCn, Reduced data loading time by implementing incremental loading and table pagination techniques.  • Worked on projects like CRMs, HRMS, CMS, Landing Pages, Web Apps.   • Enhanced functionality and user experience by incorporating tools such as MUI, Antd, Google Maps, React-hook-form. • Integrated RESTful and secured APIs into various frontend components. • Translated Figma designs into pixel-perfect, functional user interfaces",
     skills: [
       "Next JS",
