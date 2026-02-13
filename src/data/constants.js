@@ -3,6 +3,7 @@ export const Bio = {
   roles: [
     "Software Engineer",
     "Full Stack Developer",
+    "AI Engineer",
     "Sr. Frontend Developer",
   ],
   description: `Software Engineer with 3+ years of experience building and scaling modern web applications using React.js
@@ -11,7 +12,7 @@ and delivering responsive user interfaces for enterprise applications. Improved 
 data handling, lazy loading, and optimized state management using Redux Toolkit / RTK Query.`,
   github: "https://github.com/umedsingh98",
   resume:
-    "https://drive.google.com/file/d/1Xv6iHNbjkw9yynCd01_X6iU1hGqJBREh/view?usp=sharing",
+    "https://drive.google.com/file/d/1zb1NlKaHKX5265Xow-Tq2dl_Uq5eXbKv/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/umed-singh-60228433b/",
 };
 
