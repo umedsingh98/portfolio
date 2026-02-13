@@ -6,10 +6,7 @@ export const Bio = {
     "AI Engineer",
     "Sr. Frontend Developer",
   ],
-  description: `Software Engineer with 3+ years of experience building and scaling modern web applications using React.js
-and Next.js. Specialized in creating maintainable frontend architectures, optimizing rendering performance,
-and delivering responsive user interfaces for enterprise applications. Improved application performance by
-data handling, lazy loading, and optimized state management using Redux Toolkit / RTK Query.`,
+  description: `Software Engineer with 3+ years of experience building scalable, high-performance web applications using React.js and Next.js, with strong expertise in frontend architecture, reusable component design, and performance optimization. Improved application performance by 30% through pagination, lazy loading, code splitting, and optimized state management using Redux Toolkit / RTK Query. Experienced in developing complex enterprise systems including CRM, HRMS, CMS, and admin platforms, with full-stack exposure to Node.js, REST/GraphQL APIs, JWT authentication, and RBAC. Currently expanding into AI-driven application development, building RAG-based systems using LangChain and LangGraph with LLM integration, vector embeddings, semantic retrieval, and agentic workflows.`,
   github: "https://github.com/umedsingh98",
   resume:
     "https://drive.google.com/file/d/1zb1NlKaHKX5265Xow-Tq2dl_Uq5eXbKv/view?usp=sharing",
