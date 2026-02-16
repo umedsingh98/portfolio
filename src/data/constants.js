@@ -9,7 +9,7 @@ export const Bio = {
   description: `Software Engineer with 3+ years of experience in high-performance React.js and Next.js applications, delivering scalable enterprise systems and 30% performance improvements. Now building AI-driven systems using RAG, LangChain, and LangGraph with LLM integration and vector-based retrieval.`,
   github: "https://github.com/umedsingh98",
   resume:
-    "https://drive.google.com/file/d/1zb1NlKaHKX5265Xow-Tq2dl_Uq5eXbKv/view?usp=sharing",
+    "https://drive.google.com/file/d/11-v-vdx8fHaP4RIW6n8Dc1M8wVJO-gc7/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/umed-singh-60228433b/",
 };
 
