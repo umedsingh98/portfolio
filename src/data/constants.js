@@ -11,7 +11,7 @@ powered systems, with hands-on experience implementing RAG-based systems using L
 
 context-aware and semantically relevant AI responses, including LLM integration, vector embedding.`,
   github: "https://github.com/umedsingh98",
-  resume: "https://drive.google.com/file/d/1N9d0PINBuhQ7VjuXzrewpFFQPEDlh7gI/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1o0KvZ2Ad8Y9E3ln-MTkz8ruk0CiIZ0Pr/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/umed-singh-60228433b/",
 };
 
