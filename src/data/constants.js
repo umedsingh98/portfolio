@@ -6,12 +6,12 @@ export const Bio = {
     "AI Engineer",
     "Sr. Frontend Developer",
   ],
-  description: `Software Engineer with 4+ years of experience in high-performance React.js and Next.js applications, delivering scalable enterprise systems and 30% performance improvements. Recently focused on AI-
+  description: `Software Engineer with 3+ years of experience in high-performance React.js and Next.js applications, delivering scalable enterprise systems and 30% performance improvements. Recently focused on AI-
 powered systems, with hands-on experience implementing RAG-based systems using LangChain enabling
 
 context-aware and semantically relevant AI responses, including LLM integration, vector embedding.`,
   github: "https://github.com/umedsingh98",
-  resume: "https://drive.google.com/file/d/1o0KvZ2Ad8Y9E3ln-MTkz8ruk0CiIZ0Pr/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1bqNCVEaoB9bnMQWpXDBZVfJsN0g_2xuX/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/umed-singh-60228433b/",
 };
 
@@ -200,7 +200,7 @@ export const experiences = [
     img: "web-tech-solution-logo.png",
     role: "Software Engineer",
     company: "Web Tech Solution",
-    date: "Nov 2021 - Present",
+    date: "Nov 2022 - Present",
     desc: "* Built and maintained production frontend applications using Next.js and React, with Redux Toolkit/ RTK Query for predictable state and data fetching, focusing on long-term maintainability and performance. * Improved initial page load time by 30% by introducing code splitting, lazy loading, pagination, and request-level optimizations such as debouncing, resulting in smoother interactions on data-heavy screens. * Worked on end-to-end delivery of CRM, HRMS, CMS, Dashboards, Landing pages, and internal web tools, supporting multiple user roles and business workflows. * Designed and implemented REST APIs using Node.js and Express, aligned closely with frontend data needs to reduce over-fetching and unnecessary API calls. * Integrated JWT-based authentication and role-based access control, ensuring secure API consumption and controlled access across different application modules. * Structured applications around reusable, modular components, enabling shared behavior across features while keeping individual modules easy to reason about.",
     skills: [
       "Next JS",
