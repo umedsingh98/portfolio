@@ -6,12 +6,10 @@ export const Bio = {
     "AI Engineer",
     "Sr. Frontend Developer",
   ],
-  description: `Software Engineer with 3+ years of experience in high-performance React.js and Next.js applications, delivering scalable enterprise systems and 30% performance improvements. Recently focused on AI-
-powered systems, with hands-on experience implementing RAG-based systems using LangChain enabling
-
-context-aware and semantically relevant AI responses, including LLM integration, vector embedding.`,
+  description: `Software Engineer with 4+ years of experience in high-performance React.js and Next.js applications, delivering scalable enterprise systems and 30% performance improvements. Recently focused on AI-
+powered systems, with hands-on experience implementing RAG-based systems using LangChain enabling context-aware and semantically relevant AI responses, including LLM integration, vector embedding.`,
   github: "https://github.com/umedsingh98",
-  resume: "https://drive.google.com/file/d/1bqNCVEaoB9bnMQWpXDBZVfJsN0g_2xuX/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1bRNh6jnmN7ZOya9zlVtCOc4uuNaes-sf/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/umed-singh-60228433b/",
 };
 
