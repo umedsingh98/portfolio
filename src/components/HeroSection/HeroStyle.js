@@ -55,7 +55,7 @@ export const HeroInnerContainer = styled.div`
   }
 `;
 export const HeroLeftContainer = styled.div`
-  width: 58%;
+  width: 100%;
   order: 1;
   @media (max-width: 960px) {
     order: 2;
@@ -75,7 +75,7 @@ export const HeroLeftContainer = styled.div`
 `;
 
 export const HeroRightContainer = styled.div`
-  width: 40%;
+  width: 100%;
   display: flex;
   order: 2;
   justify-content: end;
