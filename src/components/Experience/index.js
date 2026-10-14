@@ -97,9 +97,9 @@ const Experience = () => {
     <Container id="experience">
       <Wrapper>
         <Title>Experience</Title>
-        <Desc>
-          My work experience as a software engineer and working on different companies and projects.
-        </Desc>
+        {/* <Desc>
+          My work experience as a software engineer.
+        </Desc> */}
         <VerticalTimeline>
           {experiences.map((experience, idx) => (
             <VerticalTimelineElement

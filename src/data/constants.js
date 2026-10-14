@@ -6,9 +6,9 @@ export const Bio = {
     "Software Engineer",
     "AI Engineer",
   ],
-  description: `Software Engineer with 4+ years of experience in developing complex enterprise systems including CRM, HRMS, CMS, and admin platforms, with full-stack exposure to Node.js, REST/GraphQL APIs, JWT authentication, and RBAC. Currently expanding into AI-driven application development, building RAG-based systems using LangChain and LangGraph with LLM integration, vector embeddings, semantic retrieval, and agentic workflows.`,
+  description: `Software Engineer with 3+ years of experience in developing complex enterprise systems including CRM, HRMS, CMS, and admin platforms, with full-stack exposure to Node.js, REST/GraphQL APIs, JWT authentication, and RBAC. Currently expanding into AI-driven application development, building RAG-based systems using LangChain and LangGraph with LLM integration, vector embeddings, semantic retrieval, and agentic workflows.`,
   github: "https://github.com/umedsingh98",
-  resume: "https://drive.google.com/file/d/1rIWD5BdtxDXENAoX_dOix0QTMW6OraEK/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1vQHTO3qXUxAPvcXmTnkxj8Juc_VNqq4T/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/umed-singh-60228433b/",
 };
 
@@ -202,7 +202,7 @@ export const experiences = [
     img: "web-tech-solution-logo.png",
     role: "Software Engineer",
     company: "Web Tech Solution",
-    date: "Nov 2022 - Present",
+    date: "Sept 2023 - Present",
     desc: "* Built and maintained production frontend applications using Next.js and React, with Redux Toolkit/ RTK Query for predictable state and data fetching, focusing on long-term maintainability and performance. * Improved initial page load time by 30% by introducing code splitting, lazy loading, pagination, and request-level optimizations such as debouncing, resulting in smoother interactions on data-heavy screens. * Worked on end-to-end delivery of CRM, HRMS, CMS, Dashboards, Landing pages, and internal web tools, supporting multiple user roles and business workflows. * Designed and implemented REST APIs using Node.js and Express, aligned closely with frontend data needs to reduce over-fetching and unnecessary API calls. * Integrated JWT-based authentication and role-based access control, ensuring secure API consumption and controlled access across different application modules. * Structured applications around reusable, modular components, enabling shared behavior across features while keeping individual modules easy to reason about.",
     skills: [
       "Next JS",
