@@ -8,7 +8,7 @@ export const Bio = {
   ],
   description: `Software Engineer with 3+ years of experience in developing complex enterprise systems including CRM, HRMS, CMS, and admin platforms, with full-stack exposure to Node.js, REST/GraphQL APIs, JWT authentication, and RBAC. Currently expanding into AI-driven application development, building RAG-based systems using LangChain and LangGraph with LLM integration, vector embeddings, semantic retrieval, and agentic workflows.`,
   github: "https://github.com/umedsingh98",
-  resume: "https://drive.google.com/file/d/1vQHTO3qXUxAPvcXmTnkxj8Juc_VNqq4T/view?usp=sharing",
+  resume: "https://docs.google.com/document/d/1VxXnw4b0wShJ1E9uTcZs40e0-eSr_fto/edit?usp=sharing&ouid=116784823905940582256&rtpof=true&sd=true",
   linkedin: "https://www.linkedin.com/in/umed-singh-60228433b/",
 };
 
